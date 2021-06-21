@@ -1,0 +1,221 @@
+location,total_cases,count_of_deaths
+Afghanistan,93272.00,3683.00
+Albania,132469.00,2454.00
+Algeria,134115.00,3588.00
+Andorra,13828.00,127.00
+Angola,36921.00,842.00
+Anguilla,NULL,NULL
+Antigua and Barbuda,1263.00,42.00
+Argentina,4172742.00,86615.00
+Armenia,223805.00,4489.00
+Aruba,NULL,NULL
+Australia,30286.00,910.00
+Austria,648849.00,10668.00
+Azerbaijan,335264.00,4958.00
+Bahamas,12225.00,239.00
+Bahrain,260334.00,1246.00
+Bangladesh,833291.00,13222.00
+Barbados,4038.00,47.00
+Belarus,406861.00,2995.00
+Belgium,1077087.00,25099.00
+Belize,12989.00,326.00
+Benin,8140.00,103.00
+Bermuda,NULL,NULL
+Bhutan,1842.00,1.00
+Bolivia,411677.00,15738.00
+Bonaire Sint Eustatius and Saba,NULL,NULL
+Bosnia and Herzegovina,204697.00,9534.00
+Botswana,61457.00,926.00
+Brazil,17533221.00,490696.00
+British Virgin Islands,NULL,NULL
+Brunei,250.00,3.00
+Bulgaria,420654.00,17932.00
+Burkina Faso,13459.00,167.00
+Burundi,5037.00,8.00
+Cambodia,39464.00,361.00
+Cameroon,80090.00,1310.00
+Canada,1411652.00,25943.00
+Cape Verde,31704.00,276.00
+Cayman Islands,NULL,NULL
+Central African Republic,7101.00,98.00
+Chad,4943.00,174.00
+Chile,1487239.00,30865.00
+China,90996.00,4619.00
+Colombia,3802052.00,96965.00
+Comoros,3901.00,146.00
+Congo,12121.00,160.00
+Cook Islands,NULL,NULL
+Costa Rica,345312.00,4407.00
+Cote d'Ivoire,47909.00,306.00
+Croatia,358677.00,8160.00
+Cuba,160594.00,1106.00
+Curacao,NULL,NULL
+Cyprus,73311.00,374.00
+Czechia,1665327.00,30229.00
+Democratic Republic of Congo,35918.00,854.00
+Denmark,291139.00,2528.00
+Djibouti,11575.00,154.00
+Dominica,189.00,NULL
+Dominican Republic,310391.00,3717.00
+Ecuador,439374.00,21061.00
+Egypt,274404.00,15691.00
+El Salvador,76297.00,2305.00
+Equatorial Guinea,8662.00,120.00
+Eritrea,5012.00,17.00
+Estonia,130599.00,1266.00
+Eswatini,18754.00,676.00
+Ethiopia,274480.00,4257.00
+Faeroe Islands,NULL,NULL
+Falkland Islands,NULL,NULL
+Fiji,1322.00,5.00
+Finland,93923.00,964.00
+France,6154922.00,110692.00
+French Polynesia,NULL,NULL
+Gabon,24755.00,157.00
+Gambia,6016.00,180.00
+Georgia,355368.00,5083.00
+Germany,3725328.00,90079.00
+Ghana,94699.00,790.00
+Gibraltar,NULL,NULL
+Greece,416195.00,12459.00
+Greenland,NULL,NULL
+Grenada,161.00,1.00
+Guatemala,273730.00,8500.00
+Guernsey,NULL,NULL
+Guinea,23398.00,167.00
+Guinea-Bissau,3803.00,69.00
+Guyana,18530.00,437.00
+Haiti,16662.00,358.00
+Honduras,249118.00,6674.00
+Hong Kong,11880.00,210.00
+Hungary,807102.00,29935.00
+Iceland,6555.00,29.00
+India,29633105.00,379573.00
+Indonesia,1927708.00,53280.00
+Iran,3049648.00,82351.00
+Iraq,1264301.00,16762.00
+Ireland,267289.00,4941.00
+Isle of Man,NULL,NULL
+Israel,839701.00,6428.00
+Italy,4247032.00,127101.00
+Jamaica,49379.00,1012.00
+Japan,777977.00,14150.00
+Jersey,NULL,NULL
+Jordan,744377.00,9614.00
+Kazakhstan,460340.00,3502.00
+Kenya,176137.00,3428.00
+Kiribati,2.00,NULL
+Kosovo,107175.00,2255.00
+Kuwait,331013.00,1831.00
+Kyrgyzstan,111343.00,1905.00
+Laos,2025.00,3.00
+Latvia,136247.00,2464.00
+Lebanon,542649.00,7801.00
+Lesotho,10923.00,326.00
+Liberia,2575.00,94.00
+Libya,189555.00,3166.00
+Liechtenstein,3026.00,59.00
+Lithuania,277942.00,4348.00
+Luxembourg,70466.00,818.00
+Macao,NULL,NULL
+Madagascar,41966.00,891.00
+Malawi,34588.00,1162.00
+Malaysia,667876.00,4069.00
+Maldives,70897.00,198.00
+Mali,14356.00,523.00
+Malta,30582.00,419.00
+Marshall Islands,4.00,NULL
+Mauritania,20151.00,477.00
+Mauritius,1701.00,18.00
+Mexico,2459601.00,230428.00
+Micronesia (country),1.00,NULL
+Moldova,255878.00,6156.00
+Monaco,2532.00,33.00
+Mongolia,83128.00,389.00
+Montenegro,99988.00,1602.00
+Montserrat,NULL,NULL
+Morocco,524475.00,9217.00
+Mozambique,71651.00,842.00
+Myanmar,146051.00,3248.00
+Namibia,67021.00,1040.00
+Nauru,NULL,NULL
+Nepal,612202.00,8506.00
+Netherlands,1702174.00,17994.00
+New Caledonia,NULL,NULL
+New Zealand,2711.00,26.00
+Nicaragua,7696.00,188.00
+Niger,5452.00,192.00
+Nigeria,167095.00,2117.00
+North Macedonia,155568.00,5472.00
+Northern Cyprus,NULL,NULL
+Norway,128499.00,789.00
+Oman,238566.00,2565.00
+Pakistan,944065.00,21828.00
+Palestine,311948.00,3542.00
+Panama,389173.00,6452.00
+Papua New Guinea,16682.00,165.00
+Paraguay,396149.00,11069.00
+Peru,2007477.00,189261.00
+Philippines,1327431.00,22963.00
+Poland,2877819.00,74626.00
+Portugal,859045.00,17049.00
+Qatar,220033.00,579.00
+Romania,1079879.00,31957.00
+Russia,5176051.00,125055.00
+Rwanda,28912.00,372.00
+Saint Helena,NULL,NULL
+Saint Kitts and Nevis,209.00,NULL
+Saint Lucia,5186.00,80.00
+Saint Vincent and the Grenadines,2158.00,12.00
+Samoa,3.00,NULL
+San Marino,5090.00,90.00
+Sao Tome and Principe,2358.00,37.00
+Saudi Arabia,468175.00,7606.00
+Senegal,42050.00,1156.00
+Serbia,715147.00,6976.00
+Seychelles,13630.00,50.00
+Sierra Leone,4449.00,82.00
+Singapore,62315.00,34.00
+Sint Maarten (Dutch part),NULL,NULL
+Slovakia,391087.00,12446.00
+Slovenia,256581.00,4408.00
+Solomon Islands,20.00,NULL
+Somalia,14823.00,775.00
+South Africa,1761066.00,58087.00
+South Korea,149190.00,1993.00
+South Sudan,10688.00,115.00
+Spain,3745199.00,80579.00
+Sri Lanka,228256.00,2315.00
+Sudan,36304.00,2732.00
+Suriname,18825.00,418.00
+Sweden,1084636.00,14574.00
+Switzerland,700978.00,10866.00
+Syria,24904.00,1821.00
+Taiwan,13240.00,460.00
+Tajikistan,13308.00,90.00
+Tanzania,509.00,21.00
+Thailand,202260.00,1485.00
+Timor,8412.00,19.00
+Togo,13651.00,126.00
+Tonga,NULL,NULL
+Trinidad and Tobago,29309.00,686.00
+Tunisia,372221.00,13656.00
+Turkey,4518803.00,48879.00
+Turkmenistan,NULL,NULL
+Turks and Caicos Islands,NULL,NULL
+Tuvalu,NULL,NULL
+Uganda,64521.00,459.00
+Ukraine,2285534.00,53894.00
+United Arab Emirates,601950.00,1734.00
+United Kingdom,4596994.00,128181.00
+United States,33485067.00,600272.00
+Uruguay,343615.00,5089.00
+Uzbekistan,104113.00,709.00
+Vanuatu,4.00,1.00
+Vatican,27.00,NULL
+Venezuela,254116.00,2865.00
+Vietnam,11304.00,61.00
+Wallis and Futuna,NULL,NULL
+Yemen,6864.00,1350.00
+Zambia,115824.00,1444.00
+Zimbabwe,40318.00,1637.00
