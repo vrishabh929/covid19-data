@@ -1,7 +1,7 @@
 INSIGHTS:
 
-1. There are 2 Billion tests taken out of which 561 Million tests showed positive result.
-2. The overall deaths globally were around 561 millions with 2% as the death percentage globally.
+1. There are 2 Billion tests taken out of which 179 Million tests showed positive result.
+2. The overall deaths globally were around 3.7 millions with 2.07% as the death percentage globally.
 3. Overall 2 Billion people has been vaccinated globally
 4. "Europe" has higher number of deaths and oceania has lower number of deaths.
 5. "Asia" has higher number of positive cases which is around 52M and "Europe" has 47M positive cases.
